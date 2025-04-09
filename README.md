@@ -19,11 +19,11 @@ _Deflect_ is a fast-paced 2D side-scrolling survival game where players can't di
 
 | Action        | Key/Mouse         |
 |---------------|-------------------|
-| Move Left     | `A`               |
-| Move Right    | `D`               |
-| Jump / Double Jump | `W` or `SPACE` |
-| Dodge (Dash)  | `SHIFT`           |
-| Deflect       | `Left Mouse Click`|
+| **Move Left**     | `A`               |
+| **Move Right**    | `D`               |
+| **Jump / Double Jump** | `W` or `SPACE` |
+| **Dodge**  | `SHIFT`           |
+| **Deflect**       | `Left Mouse Click`|
 
 ## 🛠️ Development
 
