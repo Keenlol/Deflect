@@ -7,7 +7,7 @@ By Chetphisuth Tongpa (ID: 6710545491)
 
 _Deflect_ is a fast-paced 2D side-scrolling survival game where players can't directly attack — instead, they must **deflect** enemy attacks to damage them. Players must time their defenses to survive increasingly difficult enemy waves.
 
-![Gameplay screenshot](previews\gameplay_screenshot1.png)
+![Gameplay screenshot](previews/gameplay_screenshot1.png)
 ## 🕹️ Core Mechanics
 
 - **Side-scrolling movement**: Move left/right and jump like a Mario-style platformer.
